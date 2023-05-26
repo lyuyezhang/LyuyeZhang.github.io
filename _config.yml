@@ -11,9 +11,9 @@ title                    : "Lyuye Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Lyuye Zhang"
 description              : &description "personal description"
-url                      : https://zly123987.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lyuyezhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/LyuyeZhang" # the subpath of your site, e.g. "/blog"
-repository               : "zly123987/LyuyeZhang"
+repository               : "lyuyezhang/LyuyeZhang"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
