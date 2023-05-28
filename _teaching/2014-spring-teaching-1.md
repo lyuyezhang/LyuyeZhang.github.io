@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Data Structure and Algorithm SC1007-CE1107-CZ1107"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/sc1007
+venue: "Nanyang Technological University"
 date: 2014-01-01
 location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+During the second semester of 2022-2023, I served as a teaching assistant for the lab tutorial sessions of the Data Structure and Algorithm course.
 
 Heading 1
 ======
