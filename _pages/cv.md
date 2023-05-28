@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2018: Research Associate
+* 2018-2020: Research Associate
   * Nanyang Technological University
   * Duties included: Software Composition Analysis
   * Supervisor: Professor Yang Liu
