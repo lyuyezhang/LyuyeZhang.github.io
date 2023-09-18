@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Lyuye Zhang completed his undergraduate studies at Harbin Engineering University in 2016, earning a Bachelor's degree. In 2018, he furthered his academic pursuits by obtaining a Master of Engineering degree from Nanyang Technological University. Currently, he is engaged in a doctoral program at the School of Computer and Science Engineering in **Nanyang Technological University**, where he is under the esteemed guidance of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+Lyuye Zhang completed his undergraduate studies at Harbin Engineering University, China in 2016, earning a Bachelor's degree. In 2018, he furthered his academic pursuits by obtaining a Master of Engineering degree from Nanyang Technological University, Singapore. Currently, he is engaged in a doctoral program at the School of Computer and Science Engineering in **Nanyang Technological University**, where he is under the esteemed guidance of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
 Research Interests
 ======
