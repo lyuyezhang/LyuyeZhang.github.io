@@ -27,8 +27,9 @@ News
 
 Services
 ======
+* MSR2024 Junior PC.
+* CCS2023 AEC.
 * ICSE2024 sub-reviewer.
-* MSR2024 sub-reviewer.
 * ASE2023 sub-reviewer.
 * ISSTA2023 sub-reviewer.
 * FSE2023 sub-reviewer.
