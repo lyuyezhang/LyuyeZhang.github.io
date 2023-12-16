@@ -17,13 +17,14 @@ My primary research interests revolve around the domains of Software Security an
 
 News
 ======
-* August 2023: Our paper "Software Composition Analysis for Vulnerability Detection: An Empirical Study on Java Projects" was accepted by **FSE2023** (CCF-A).
-* July 2023: Our paper "Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem" was accepted by **ASE2023** (CCF-A).
-* February 2023: Our paper "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects" received the **ACM SIGSOFT Distinguished Paper Award at ICSE2023** (CCF-A).
-* December 2022: Our paper "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects" was accepted by **ICSE2023** (CCF-A).
-* December 2022: Our paper "OSSFP: Precise and Scalable C/C++ Third-Party Library Detection using Fingerprinting Functions" was accepted by **ICSE2023** (CCF-A).
-* October 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing" received the **ACM SIGSOFT Distinguished Paper Award at ASE2022** (CCF-A).
-* July 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing for Java" was accepted by **ASE2022** (CCF-A)!
+* Dec 2023: Our paper "Empirical Analysis of Vulnerabilities Life Cycle in Golang Ecosystem" was accepted by **ICSE 2024**.
+* August 2023: Our paper "Software Composition Analysis for Vulnerability Detection: An Empirical Study on Java Projects" was accepted by **FSE2023**.
+* July 2023: Our paper "Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem" was accepted by **ASE2023**.
+* February 2023: Our paper "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects" received the **ACM SIGSOFT Distinguished Paper Award at ICSE2023**!
+* December 2022: Our paper "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects" was accepted by **ICSE2023**.
+* December 2022: Our paper "OSSFP: Precise and Scalable C/C++ Third-Party Library Detection using Fingerprinting Functions" was accepted by **ICSE2023**.
+* October 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing" received the **ACM SIGSOFT Distinguished Paper Award at ASE2022**.
+* July 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing for Java" was accepted by **ASE2022**!
 
 Services
 ======
