@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ase22
 excerpt: ''
 date: 2022-10-14
-venue: 'The 37th IEEE/ACM International Conference on Automated Software Engineering'
+venue: 'The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/abs/2209.00393)'
 citation:  '' 
 ---
