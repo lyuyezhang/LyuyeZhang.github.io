@@ -6,7 +6,7 @@ permalink: /publication/icse24empirical
 excerpt: ''
 date: 2023-12-15
 venue: '46th International Conference on Software Engineering (ICSE)'
-paperurl: ''
+paperurl: 'https://conf.researchr.org/details/icse-2024/icse-2024-research-track/230/Empirical-Analysis-of-Vulnerabilities-Life-Cycle-in-Golang-Ecosystem'
 citation: ''
 ---
 <!-- Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2). -->
