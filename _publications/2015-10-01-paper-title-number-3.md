@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icse23compatible
 excerpt: ''
 date: 2023-05-17
-venue: '45th IEEE/ACM International Conference on Software Engineering'
+venue: '45th IEEE/ACM International Conference on Software Engineering (ICSE)'
 paperurl: 'https://arxiv.org/pdf/2301.08434.pdf'
 citation: ''
 ---
