@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icse23ossfp
 excerpt: ''
 date: 2023-05-17
-venue: '45th IEEE/ACM International Conference on Software Engineering'
+venue: '45th IEEE/ACM International Conference on Software Engineering (ICSE)'
 paperurl: 'https://conf.researchr.org/details/icse-2023/icse-2023-technical-track/27/OSSFP-Precise-and-Scalable-C-C-Third-Party-Library-Detection-using-Fingerprinting-'
 citation: ''
 ---
