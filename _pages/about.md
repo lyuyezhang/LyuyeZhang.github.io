@@ -28,6 +28,7 @@ News
 
 Services
 ======
+* APSEC 2024 PC.
 * ACSAC 2024 PC.
 * Internetware 2024 PC.
 * MSR2024 Junior PC.
