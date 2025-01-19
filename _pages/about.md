@@ -17,6 +17,7 @@ My primary research interests revolve around the domains of Software Security an
 
 News
 ======
+* Jan 2025: Our paper "LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion" was accepted by **ICSE 2025**.
 * May 2024: My short paper "Vulnerability Root Cause Function Locating For Java Vulnerabilities" was accepted by **ICSE 2024** Student Competition Track.
 * Dec 2023: Our paper "Empirical Analysis of Vulnerabilities Life Cycle in Golang Ecosystem" was accepted by **ICSE 2024**.
 * August 2023: Our paper "Software Composition Analysis for Vulnerability Detection: An Empirical Study on Java Projects" was accepted by **FSE2023**.
