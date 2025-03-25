@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Lyuye Zhang is a final-year PhD candidate. He completed his undergraduate studies at Harbin Engineering University, China in 2016, earning a Bachelor's degree. In 2018, he furthered his academic pursuits by obtaining a Master of Engineering degree from Nanyang Technological University, Singapore. Currently, he is engaged in a doctoral program at the School of Computer and Science Engineering in **Nanyang Technological University**, where he is under the esteemed guidance of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+Lyuye Zhang is a final-year PhD candidate. He completed his undergraduate studies at Harbin Engineering University, China in 2016, earning a Bachelor's degree. In 2018, he furthered his academic pursuits by obtaining a Master of Engineering degree from Nanyang Technological University, Singapore. Currently, he is engaged in a doctoral program at the School of Computer and Science Engineering at **Nanyang Technological University**, where he is under the esteemed guidance of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
 Research Interests
 ======
@@ -17,6 +17,7 @@ My primary research interests revolve around the domains of Software Security an
 
 News
 ======
+* Mar 2025: Our paper "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis" was accepted by **FSE-IVR 2025**.
 * Jan 2025: Our paper "LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion" was accepted by **ICSE 2025**.
 * May 2024: My short paper "Vulnerability Root Cause Function Locating For Java Vulnerabilities" was accepted by **ICSE 2024** Student Competition Track.
 * Dec 2023: Our paper "Empirical Analysis of Vulnerabilities Life Cycle in Golang Ecosystem" was accepted by **ICSE 2024**.
