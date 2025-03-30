@@ -17,6 +17,7 @@ My primary research interests revolve around the domains of Software Security an
 
 News
 ======
+* Mar 2025: Our paper "Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management" was accepted by **ISSTA 2025**.
 * Mar 2025: Our paper "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis" was accepted by **FSE-IVR 2025**.
 * Jan 2025: Our paper "LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion" was accepted by **ICSE 2025**.
 * May 2024: My short paper "Vulnerability Root Cause Function Locating For Java Vulnerabilities" was accepted by **ICSE 2024** Student Competition Track.
