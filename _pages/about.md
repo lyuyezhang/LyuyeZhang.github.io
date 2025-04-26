@@ -13,7 +13,7 @@ Lyuye Zhang is a final-year PhD candidate. He completed his undergraduate studie
 
 Research Interests
 ======
-My primary research interests revolve around the domains of Software Security and Maintenance, encompassing various aspects such as Open Source Security, Software Supply Chain Security, Open Source Governance, and Software Evolution Analysis.
+My primary research interests lie in the domains of Software Security and Maintenance, encompassing various aspects such as Open Source Security, Software Supply Chain Security, Open Source Governance, and Software Evolution Analysis. Currently, I am working on LLM-driven software security.
 
 News
 ======
@@ -30,7 +30,19 @@ News
 * October 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing" received the **ACM SIGSOFT Distinguished Paper Award at ASE2022**.
 * July 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing for Java" was accepted by **ASE2022**!
 
+Selected Publications
+======
+* [ISSTA 2025](https://arxiv.org/pdf/2503.23357) **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025. Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. In Proceedings of International Symposium on Software Testing and Analysis (ISSTA ’25). ACM, New York, NY, USA, 24 pages. https://doi.org/10.1145/3696630.3728525 
+* [FSE-IVR 2025](https://arxiv.org/pdf/2503.22576) **Lyuye Zhang**, Chengwei Liu*, Jiahui Wu, Shiyang Zhang, Chengyue Liu, Zhengzi Xu, Sen Chen, Yang Liu, "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis", In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), 2025.
+* [Pre-print](https://arxiv.org/pdf/2403.06838) **Lyueye Zhang**, Kaixuan Li, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. “Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts.” arXiv preprint arXiv:2403.06838 (2024), Preprint
+* [ICSE-APR 2025] **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Sen Chen, and Yang Liu, “Towards Unveiling Vulnerability Remediation Tactics from OSS Community”, Ottawa, Ontario, Canada, In Proceedings of the 6th International Workshop on Automated Program Repair, In conjunction with 47th International Conference on Software Engineering (ICSE 2025), Sun 27 April - Sat 3 May 2025.
+* [ASE 2023] **Lyuye Zhang**, Chengwei Liu*, Sen Chen, Zhengzi Xu, Lingling Fan, Lida Zhao, Yiran Zhang, Yang Liu, "Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem", In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering, 2023.
+* [ICSE 2023] **Lyuye Zhang**, Chengwei Liu*, Zhengzi Xu, Sen Chen, Lingling Fan, Lida Zhao, Jiahui Wu, and Yang Liu, "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects", In Proceedings of the 45th International Conference on Software Engineering, 2023.
+* [ASE 2022] **Lyuye Zhang**, Chengwei Liu, Zhengzi Xu, Sen Chen, Lingling Fan, Bihuan Chen, and Yang Liu, "Has My Release Disobeyed Semantic Versioning? Static Detection Based On Semantic Differencing", In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering, 2022.
+
+
 Services
+
 ======
 * APSEC 2024 PC.
 * ACSAC 2024 PC.
