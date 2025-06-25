@@ -1,3 +1,15 @@
+---
+title: "Software Engineering SE2006/SC2006"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/se2006
+venue: "Nanyang Technological University"
+date: 2025-01-19
+location: "Singapore"
+---
+During the second semester of 2024-2025, I served as a tutorial lecturer for the tutorial sessions of the Software Engineering module.
+
+
 <!-- ---
 title: "Teaching experience 2"
 collection: teaching
