@@ -30,6 +30,11 @@ News
 * October 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing" received the **ACM SIGSOFT Distinguished Paper Award at ASE2022**.
 * July 2022: Our paper "Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing for Java" was accepted by **ASE2022**!
 
+**Awards**
+======
+* <span style="color:red">SIGSOFT Distinguished Paper Award at ICSE 2023.</span>
+* <span style="color:red">SIGSOFT Distinguished Paper Award at ASE 2022.</span>
+  
 Selected Publications
 ======
 * [ISSTA 2025](https://arxiv.org/pdf/2503.23357) **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025. Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. In Proceedings of International Symposium on Software Testing and Analysis (ISSTA ’25). ACM, New York, NY, USA, 24 pages.
