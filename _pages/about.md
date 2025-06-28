@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 
-Lyuye Zhang is a Post-doc researcher at Nanyang Technological University, Singapore. He completed his undergraduate studies at Harbin Engineering University, China in 2016, earning a Bachelor's degree. In 2018, he furthered his academic pursuits by obtaining a Master of Engineering degree from Nanyang Technological University, Singapore. Currently, he is engaged in a doctoral program at the School of Computer and Science Engineering at **Nanyang Technological University**, where he is under the esteemed guidance of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+Lyuye Zhang is a Post-doc researcher at Nanyang Technological University, Singapore. He completed his undergraduate studies at Harbin Engineering University, China in 2016, earning a Bachelor's degree. In 2018, he furthered his academic pursuits by obtaining a Master of Engineering degree from Nanyang Technological University, Singapore. Currently, he has obtained a Ph.D. degree at the College of Computing and Data Science of **Nanyang Technological University**, where he is under the esteemed guidance of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+
+
+* <span style="color:red">I am on the job market now, seeking a tenure-track Assistant Professor position. Please contact me if you find it suitable.</span>
 
 Research Interests
 ======
