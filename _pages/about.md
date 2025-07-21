@@ -38,6 +38,12 @@ News
 ======
 * <span style="color:red">SIGSOFT Distinguished Paper Award at ICSE 2023.</span>
 * <span style="color:red">SIGSOFT Distinguished Paper Award at ASE 2022.</span>
+
+**Grants**
+======
+* Academic Research Funding Tier 1 2023, Ministry of Education, Singapore, 100k SGD (Independently prepared entire application).
+* OpenAI Research Access Program, 5k USD.
+* 6 Sigsoft CAPS Travel Grants, ASE22, ICSE23, ASE23, ICSE24, ICSE25, ISSTA25.
   
 Selected Publications
 ======
