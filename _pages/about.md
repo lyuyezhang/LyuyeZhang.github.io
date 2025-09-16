@@ -20,6 +20,7 @@ My primary research interests lie in the domains of Software Security and Mainte
 
 News
 ======
+* Sep 2025: Our paper "Demystifying and Exploiting ASLR on NVIDIA GPUs" was accepted by **S&P 2026**.
 * Jul 2025: Our paper "ACFix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts" was accepted by **Transactions on Software Engineering**. [pre-print](https://arxiv.org/abs/2506.18050)
 * Mar 2025: Our paper "Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management" was accepted by **ISSTA 2025**.
 * Mar 2025: Our paper "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis" was accepted by **FSE-IVR 2025**.
@@ -49,6 +50,7 @@ Selected Publications
 ======
 * [Pre-print](https://arxiv.org/abs/2506.18050) **Lyuye Zhang**, Jian Zhang, Kaixuan Li, Chong Wang, Chengwei Liu, Jiahui Wu, Sen Chen, Yaowen Zheng, Yang Liu. 2025 VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software. arXiv preprint: 2506.18050 (2025).
 * [ISSTA 2025](https://arxiv.org/pdf/2503.23357) **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025. Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. In Proceedings of International Symposium on Software Testing and Analysis (ISSTA ’25). ACM, New York, NY, USA, 24 pages.
+* [S&P 2026]() Ruofan Zhu, Ganhao Chen, Wenbo Shen, **Lyuye Zhang**, Dakun Shen, Rui Chang, Yanan Guo. 2026. Demystifying and Exploiting ASLR on NVIDIA GPUs. The 47th IEEE Symposium on Security and Privacy. San Francisco, USA.
 * [FSE-IVR 2025](https://arxiv.org/pdf/2503.22576) **Lyuye Zhang**, Chengwei Liu*, Jiahui Wu, Shiyang Zhang, Chengyue Liu, Zhengzi Xu, Sen Chen, Yang Liu, "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis", In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), 2025.
 * [ICSE 2025](https://arxiv.org/pdf/2406.09834) Chong Wang, Kaifeng Huang, Jian Zhang, Yebo Feng, **Lyuye Zhang**, Yang Liu, Xin Peng, "LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion". 47th International Conference on Software Engineering (ICSE 2025).
 * [TSE 2025](https://arxiv.org/pdf/2403.06838) **Lyueye Zhang**, Kaixuan Li, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. “Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts.” arXiv preprint arXiv:2403.06838 (2024), Preprint
