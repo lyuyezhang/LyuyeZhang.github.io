@@ -20,6 +20,9 @@ My primary research interests lie in the domains of Software Security and Mainte
 
 News
 ======
+* Oct 2025: Our paper "FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization" is accepted by **ASE 2025**.
+* Oct 2025: Our paper "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation" is accepted by **ASE 2025**.
+* Oct 2025: Our paper "DroidNative: A Greedy-Constructed Large-Scale Indexing for Android Native Libraries" is accepted by **ASE-AMOBILE 2025**.
 * Sep 2025: Our paper "Demystifying and Exploiting ASLR on NVIDIA GPUs" was accepted by **S&P 2026**.
 * Jul 2025: Our paper "ACFix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts" was accepted by **Transactions on Software Engineering**. [pre-print](https://arxiv.org/abs/2506.18050)
 * Mar 2025: Our paper "Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management" was accepted by **ISSTA 2025**.
@@ -65,6 +68,9 @@ Selected Publications
 Services
 
 ======
+* ISSTA 2026 PC.
+* SANER 2026 PC.
+* ICSE 2025 Shadow PC.
 * APSEC 2024 PC.
 * ACSAC 2024 PC.
 * Internetware 2024 PC.
