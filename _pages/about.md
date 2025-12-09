@@ -20,6 +20,7 @@ My primary research interests lie in the domains of Software Security and Mainte
 
 News
 ======
+* Dec 2025: Our paper "Scratching the Iceberg: Unveiling the Outdated Third-Party Native Libraries in Android Apps" is accepted by **SANER 2026**.
 * Oct 2025: Our paper "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects" is accepted by **ICSE 2026**.
 * Sep 2025: Our paper "FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization" is accepted by **ASE 2025**.
 * Sep 2025: Our paper "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation" is accepted by **ASE 2025**.
@@ -52,7 +53,8 @@ News
   
 Selected Publications
 ======
-* [ICSE 2026]() Rui Lu, **Lyuye Zhang (equal)**, Kaixuan Li, Min Zhang, Yixiang Chen, "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects". 48th International Conference on Software Engineering (ICSE 2026).
+* [SANER 2026]() Shiyang Zhang, Chengwei Liu, Sen Chen, **Lyuye Zhang**, Yang Liu "Scratching the Iceberg: Unveiling the Outdated Third-Party Native Libraries in Android Apps". The 33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026).
+* [ICSE 2026](https://arxiv.org/pdf/2511.06762) Rui Lu, **Lyuye Zhang (equal)**, Kaixuan Li, Min Zhang, Yixiang Chen, "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects". 48th International Conference on Software Engineering (ICSE 2026).
 * [Pre-print](https://arxiv.org/abs/2506.18050) **Lyuye Zhang**, Jian Zhang, Kaixuan Li, Chong Wang, Chengwei Liu, Jiahui Wu, Sen Chen, Yaowen Zheng, Yang Liu. 2025 VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software. arXiv preprint: 2506.18050 (2025).
 * [ISSTA 2025](https://arxiv.org/pdf/2503.23357) **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025. Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. In Proceedings of International Symposium on Software Testing and Analysis (ISSTA ’25). ACM, New York, NY, USA, 24 pages.
 * [S&P 2026]() Ruofan Zhu, Ganhao Chen, Wenbo Shen, **Lyuye Zhang**, Dakun Shen, Rui Chang, Yanan Guo. 2026. Demystifying and Exploiting ASLR on NVIDIA GPUs. The 47th IEEE Symposium on Security and Privacy. San Francisco, USA.
