@@ -44,6 +44,7 @@ News
 ======
 * <span style="color:red">SIGSOFT Distinguished Paper Award at ICSE 2023.</span>
 * <span style="color:red">SIGSOFT Distinguished Paper Award at ASE 2022.</span>
+* <span style="color:blue">Best Review Award at SANER 2026.</span>
 
 **Grants**
 ======
