@@ -20,6 +20,8 @@ My primary research interests lie in the domains of Software Security and Mainte
 
 News
 ======
+* May 2026: Our paper "Demystifying and Exploiting ASLR on NVIDIA GPUs" was granted a distinguished paper award at **S&P 2026**.
+* Apr 2026: Our paper "Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries" is accepted by **ISSTA 2026**.
 * Dec 2025: Our paper "Scratching the Iceberg: Unveiling the Outdated Third-Party Native Libraries in Android Apps" is accepted by **SANER 2026**.
 * Oct 2025: Our paper "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects" is accepted by **ICSE 2026**.
 * Sep 2025: Our paper "FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization" is accepted by **ASE 2025**.
@@ -42,6 +44,7 @@ News
 
 **Awards**
 ======
+* <span style="color:red">Distinguished Paper Award at S&P 2026.</span>
 * <span style="color:blue">Best Review Award at SANER 2026.</span>
 * <span style="color:red">SIGSOFT Distinguished Paper Award at ICSE 2023.</span>
 * <span style="color:red">SIGSOFT Distinguished Paper Award at ASE 2022.</span>
