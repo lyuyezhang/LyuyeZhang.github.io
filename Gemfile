@@ -11,6 +11,12 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# Pins so the dependency set resolves on the system Ruby 2.6 (local preview only).
+# Newer releases of these native gems dropped Ruby 2.6 support; GitHub Pages' own
+# build uses a modern Ruby and is unaffected by these upper bounds.
+gem "ffi", "< 1.17"
+gem "nokogiri", "~> 1.13.10"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 

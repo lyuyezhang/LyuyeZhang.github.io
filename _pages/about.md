@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Lyuye Zhang is a Post-doc researcher at Nanyang Technological University, Singapore. He completed his undergraduate studies at Harbin Engineering University, China in 2016, earning a Bachelor's degree. In 2018, he furthered his academic pursuits by obtaining a Master of Engineering degree from Nanyang Technological University, Singapore. Currently, he has obtained a Ph.D. degree at the College of Computing and Data Science of **Nanyang Technological University**, where he is under the esteemed guidance of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+Lyuye Zhang is a Postdoctoral Researcher at the Cyber Security Lab of Nanyang Technological University, Singapore, since April 2024. He received his Ph.D. from the College of Computing and Data Science of **Nanyang Technological University** in 2024, under the supervision of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/). He obtained a Master of Engineering degree from Nanyang Technological University in 2018 and a Bachelor's degree in Telecommunications from Harbin Engineering University, China in 2016.
 
 
 * <span style="color:red">**I am on the job market now, seeking a tenure-track Assistant Professor position. Please contact me if you find it suitable.**</span>
@@ -44,30 +44,25 @@ News
 
 **Awards**
 ======
-* <span style="color:red">Distinguished Paper Award at S&P 2026.</span>
-* <span style="color:blue">Best Review Award at SANER 2026.</span>
-* <span style="color:red">SIGSOFT Distinguished Paper Award at ICSE 2023.</span>
-* <span style="color:red">SIGSOFT Distinguished Paper Award at ASE 2022.</span>
+* <span style="color:red">Distinguished Paper Award at the 47th IEEE Symposium on Security and Privacy (S&P 2026).</span>
+* <span style="color:blue">Best Review Award at the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026).</span>
+* <span style="color:red">ACM SIGSOFT Distinguished Paper Award at the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023).</span>
+* <span style="color:red">ACM SIGSOFT Distinguished Paper Award at the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).</span>
+* Ministry of Education Research Student Scholarship (~314k USD), Singapore, 2020.
+* 6 ACM SIGSOFT CAPS Travel Grants (ASE22, ICSE23, ASE23, ICSE24, ICSE25, ISSTA25), 2024.
+* OpenAI Researcher Credit Award, 5k USD, 2023.
+* National Undergraduate Electronics Design Contest Second Prize, 2013.
 
 
-**Grants**
-======
-* Academic Research Funding Tier 1 2023, Ministry of Education, Singapore, 100k SGD (Independently prepared entire application).
-* OpenAI Research Access Program, 5k USD.
-* 6 Sigsoft CAPS Travel Grants, ASE22, ICSE23, ASE23, ICSE24, ICSE25, ISSTA25.
-  
 Selected Publications
 ======
 * [SANER 2026]() Shiyang Zhang, Chengwei Liu, Sen Chen, **Lyuye Zhang**, Yang Liu "Scratching the Iceberg: Unveiling the Outdated Third-Party Native Libraries in Android Apps". The 33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026).
 * [ICSE 2026](https://arxiv.org/pdf/2511.06762) Rui Lu, **Lyuye Zhang (equal)**, Kaixuan Li, Min Zhang, Yixiang Chen, "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects". 48th International Conference on Software Engineering (ICSE 2026).
-* [Pre-print](https://arxiv.org/abs/2506.18050) **Lyuye Zhang**, Jian Zhang, Kaixuan Li, Chong Wang, Chengwei Liu, Jiahui Wu, Sen Chen, Yaowen Zheng, Yang Liu. 2025 VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software. arXiv preprint: 2506.18050 (2025).
 * [ISSTA 2025](https://arxiv.org/pdf/2503.23357) **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025. Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. In Proceedings of International Symposium on Software Testing and Analysis (ISSTA ’25). ACM, New York, NY, USA, 24 pages.
 * [S&P 2026]() Ruofan Zhu, Ganhao Chen, Wenbo Shen, **Lyuye Zhang**, Dakun Shen, Rui Chang, Yanan Guo. 2026. Demystifying and Exploiting ASLR on NVIDIA GPUs. The 47th IEEE Symposium on Security and Privacy. San Francisco, USA.
 * [FSE-IVR 2025](https://arxiv.org/pdf/2503.22576) **Lyuye Zhang**, Chengwei Liu*, Jiahui Wu, Shiyang Zhang, Chengyue Liu, Zhengzi Xu, Sen Chen, Yang Liu, "Drop the Golden Apples: Identifying Third-Party Reuse by DB-Less Software Composition Analysis", In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), 2025.
 * [ICSE 2025](https://arxiv.org/pdf/2406.09834) Chong Wang, Kaifeng Huang, Jian Zhang, Yebo Feng, **Lyuye Zhang**, Yang Liu, Xin Peng, "LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion". 47th International Conference on Software Engineering (ICSE 2025).
 * [TSE 2025](https://arxiv.org/pdf/2403.06838) **Lyuye Zhang**, Kaixuan Li, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. “Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts.” arXiv preprint arXiv:2403.06838 (2024), Preprint
-* [Pre-print](https://arxiv.org/pdf/2401.16185) "Llm4vuln: A unified evaluation framework for decoupling and enhancing llms' vulnerability reasoning", Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Wei Ma, **Lyuye Zhang**, Yang Liu, Yingjiu Li.
-* [ICSE-APR 2025](https://program-repair.org/workshop-2025/) **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Sen Chen, and Yang Liu, “Towards Unveiling Vulnerability Remediation Tactics from OSS Community”, Ottawa, Ontario, Canada, In Proceedings of the 6th International Workshop on Automated Program Repair, In conjunction with 47th International Conference on Software Engineering (ICSE 2025), Sun 27 April - Sat 3 May 2025.
 * [ICSE 2024](https://arxiv.org/pdf/2401.00515) Jinchang Hu, **Lyuye Zhang (equal)**, Chengwei Liu, Sen Yang, Song Huang, Yang Liu, "Empirical analysis of vulnerabilities life cycle in golang ecosystem". 46th International Conference on Software Engineering (ICSE 2024).
 * [ASE 2023](https://arxiv.org/pdf/2308.03419) **Lyuye Zhang**, Chengwei Liu*, Sen Chen, Zhengzi Xu, Lingling Fan, Lida Zhao, Yiran Zhang, Yang Liu, "Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem", In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering, 2023.
 * [ICSE 2023](https://arxiv.org/pdf/2301.08434) **Lyuye Zhang**, Chengwei Liu*, Zhengzi Xu, Sen Chen, Lingling Fan, Lida Zhao, Jiahui Wu, and Yang Liu, "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects", In Proceedings of the 45th International Conference on Software Engineering, 2023. (<span style="color:red">SIGSOFT Distinguished Paper Award</span>.)
@@ -76,16 +71,8 @@ Selected Publications
 * [ICSE 2023] Jiahui Wu, Zhengzi Xu, Wei Tang, **Lyuye Zhang**, Yueming Wu, Chengyue Liu, Kairan Sun, Lida Zhao, Yang Liu, "Ossfp: Precise and scalable c/c++ third-party library detection using fingerprinting functions", In Proceedings of the 45th International Conference on Software Engineering, 2023.
 
 Services
-
 ======
-* ISSTA 2026 PC.
-* SANER 2026 PC.
-* ICSE 2025 Shadow PC.
-* APSEC 2024 PC.
-* ACSAC 2024 PC.
-* Internetware 2024 PC.
-* MSR2024 Junior PC.
-* CCS2023 AEC.
+See the full [Service](/service/) page.
 
 
 <!-- 

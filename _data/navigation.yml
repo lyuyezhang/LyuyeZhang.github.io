@@ -16,9 +16,12 @@ main:
 #     url: /year-archive/
   - title: "Awards"
     url: /awards/
-    
-  - title: "CV"
-    url: /cv/
+
+  - title: "Service"
+    url: /service/
+
+#   - title: "CV"
+#     url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/

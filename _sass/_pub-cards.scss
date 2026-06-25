@@ -1,0 +1,139 @@
+/* ==========================================================================
+   Publication Cards
+   ========================================================================== */
+
+.pub-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.1em;
+  padding: 1.15em 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.list__item:last-child .pub-card {
+  border-bottom: none;
+}
+
+/* ── Left column: venue badge ── */
+
+.pub-badge {
+  flex: 0 0 82px;
+  text-align: center;
+  padding-top: 3px;
+}
+
+.pub-venue-tag {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 3px;
+  font-size: 0.65em;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #fff;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+.pub-badge--conf     .pub-venue-tag { background-color: #1565C0; }
+.pub-badge--journal  .pub-venue-tag { background-color: #2E7D32; }
+.pub-badge--workshop .pub-venue-tag { background-color: #546E7A; }
+.pub-badge--preprint .pub-venue-tag { background-color: #E65100; }
+
+.pub-venue-year {
+  display: block;
+  margin-top: 5px;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: $gray;
+}
+
+/* ── Right column: paper content ── */
+
+.pub-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-title {
+  margin: 0 0 0.3em;
+  font-size: 0.96em;
+  font-family: $sans-serif;
+  font-weight: 600;
+  line-height: 1.45;
+  border-bottom: none !important;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: $link-color;
+    }
+  }
+}
+
+.pub-award {
+  display: inline-block;
+  margin-bottom: 0.28em;
+  font-size: 0.74em;
+  font-weight: 700;
+  color: #c62828;
+}
+
+.pub-authors {
+  margin: 0 0 0.2em;
+  font-size: 0.83em;
+  color: $gray;
+  line-height: 1.5;
+}
+
+.pub-venue-full {
+  margin: 0 0 0.35em;
+  font-size: 0.78em;
+  font-style: italic;
+  color: $light-gray;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 0.45em;
+}
+
+.pub-btn {
+  display: inline-block;
+  padding: 2px 11px;
+  border: 1px solid darken($border-color, 6%);
+  border-radius: 3px;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: $dark-gray !important;
+  text-decoration: none !important;
+  background-color: #fff;
+  line-height: 1.75;
+  transition: background-color 0.15s ease;
+
+  &:hover {
+    background-color: $lighter-gray;
+    text-decoration: none !important;
+  }
+}
+
+.pub-forthcoming {
+  font-size: 0.72em;
+  font-weight: 400;
+  font-style: italic;
+  color: $light-gray;
+  margin-left: 4px;
+}
+
+/* Override the theme's global `.archive a { text-decoration: underline }` */
+.archive .pub-card a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
