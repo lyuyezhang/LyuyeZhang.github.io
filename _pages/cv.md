@@ -49,7 +49,7 @@ Mentored Students
 | 2021– | Jinchang Hu, Lecturer | Jiangxi University of Finance and Economics | Golang analysis | Accepted at ICSE2024; new work aiming Usenix Security 2026 |
 | 2023– | Rui Lu, Master | East China Normal University | Technical lag | Accepted at ICSE2026 |
 | 2024–2025 | Nihdi, Bachelor | Nanyang Technological University | Final Year Project with a paper | — |
-| 2024– | Jiaying Zhu, PhD | Nanyang Technological University | Fork in SE | Aiming ISSTA2026 |
+| 2024– | Jiaying Zhu, PhD | Nanyang Technological University | Fork in SE | Accepted at ISSTA2026 |
 | 2024– | Kairan Sun, PhD | Nanyang Technological University | PoC migration | Accepted at ASE2025 |
 | 2022–2025 | Jiahui Wu, Post-doc | Nanyang Technological University | SCA | Aiming ISSTA2026 |
 | 2024– | Fangyuan Zhang, PhD | Nankai University | Patch quality | OOPSLA 2026 under review |
