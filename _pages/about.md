@@ -57,7 +57,7 @@ News
 
 Selected Publications
 ======
-* [ISSTA 2026]() Jiaying Zhu, **Lyuye Zhang†**, Jiahui Wu, Chengyue Liu, Yang Liu, "Mind the Gap: An Empirical Study of Synchronization Gaps, Delays, and Missed Opportunities in Software Forks". 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026).
+* [ISSTA 2026]() Jiaying Zhu, **Lyuye Zhang (corresponding)**, Jiahui Wu, Chengyue Liu, Yang Liu, "Mind the Gap: An Empirical Study of Synchronization Gaps, Delays, and Missed Opportunities in Software Forks". 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026).
 * [SANER 2026]() Shiyang Zhang, Chengwei Liu, Sen Chen, **Lyuye Zhang**, Yang Liu "Scratching the Iceberg: Unveiling the Outdated Third-Party Native Libraries in Android Apps". The 33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026).
 * [ICSE 2026](https://arxiv.org/pdf/2511.06762) Rui Lu, **Lyuye Zhang (equal)**, Kaixuan Li, Min Zhang, Yixiang Chen, "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects". 48th International Conference on Software Engineering (ICSE 2026).
 * [ISSTA 2025](https://arxiv.org/pdf/2503.23357) **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025. Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. In Proceedings of International Symposium on Software Testing and Analysis (ISSTA ’25). ACM, New York, NY, USA, 24 pages.
