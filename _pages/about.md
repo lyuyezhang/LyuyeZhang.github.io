@@ -20,6 +20,10 @@ My primary research interests lie in the domains of Software Security and Mainte
 
 News
 ======
+* Jul 2026: Our paper "Implicit, Yet Impactful: Understanding Hidden Dependencies in Java Projects" is accepted by **ASE 2026**.
+* Jul 2026: Our paper "Latent Reuse in Agent Skills: Multi-modal Clone Detection at Ecosystem Scale" is accepted by **ASE 2026**.
+* Jul 2026: Our paper "One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability" is accepted by **ASE 2026**.
+* Jul 2026: Our paper "Benchmarking Automated Security Patch Backporting: How Far Are We?" is accepted by **ASE 2026**.
 * Jun 2026: Our paper "Mind the Gap: An Empirical Study of Synchronization Gaps, Delays, and Missed Opportunities in Software Forks" is accepted by **ISSTA 2026**.
 * May 2026: Our paper "Demystifying and Exploiting ASLR on NVIDIA GPUs" was granted a distinguished paper award at **S&P 2026**.
 * Apr 2026: Our paper "Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries" is accepted by **ISSTA 2026**.
@@ -47,6 +51,7 @@ News
 ======
 * <span style="color:red">Distinguished Paper Award at the 47th IEEE Symposium on Security and Privacy (S&P 2026).</span>
 * <span style="color:blue">Best Review Award at the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026).</span>
+* NTU-Imperial Collaboration Fund Award, 2025.
 * <span style="color:red">ACM SIGSOFT Distinguished Paper Award at the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023).</span>
 * <span style="color:red">ACM SIGSOFT Distinguished Paper Award at the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).</span>
 * Ministry of Education Research Student Scholarship (~314k USD), Singapore, 2020.
@@ -57,6 +62,10 @@ News
 
 Selected Publications
 ======
+* [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track) **Lyuye Zhang**, Chengwei Liu, Fangyuan Zhang, Yiran Zhang, Yuan Zhou, Yang Liu, "Implicit, Yet Impactful: Understanding Hidden Dependencies in Java Projects". 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
+* [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track) Jiaying Zhu, **Lyuye Zhang (corresponding author)**, Wenbo Guo, Yang Liu, "Latent Reuse in Agent Skills: Multi-modal Clone Detection at Ecosystem Scale". 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
+* [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track) Fangyuan Zhang, **Lyuye Zhang (co-corresponding author)**, Lingling Fan, Chengwei Liu, Yinan Li, Liang Huang, Yang Liu, Zheli Liu, Sen Chen, "One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability". 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
+* [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track) Jincheng Yang, Yulong Fu, Chengwei Liu, **Lyuye Zhang**, Fangyuan Zhang, Bingyang Ren, Yang Liu, Hui Li, "Benchmarking Automated Security Patch Backporting: How Far Are We?". 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
 * [ISSTA 2026]() Jiaying Zhu, **Lyuye Zhang (corresponding)**, Jiahui Wu, Chengyue Liu, Yang Liu, "Mind the Gap: An Empirical Study of Synchronization Gaps, Delays, and Missed Opportunities in Software Forks". 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026).
 * [SANER 2026]() Shiyang Zhang, Chengwei Liu, Sen Chen, **Lyuye Zhang**, Yang Liu "Scratching the Iceberg: Unveiling the Outdated Third-Party Native Libraries in Android Apps". The 33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026).
 * [ICSE 2026](https://arxiv.org/pdf/2511.06762) Rui Lu, **Lyuye Zhang (equal)**, Kaixuan Li, Min Zhang, Yixiang Chen, "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects". 48th International Conference on Software Engineering (ICSE 2026).

@@ -20,6 +20,7 @@ Scholarships & Grants
 * **Ministry of Education Tier 1 Academic Research Foundation**, 78k USD, "Holistic and Practical Remediation of Software Vulnerability", 2023. Independently prepared the entire proposal.
 * **Ministry of Education Tier 2 Academic Research Foundation**, 780k USD, "Detect, Assess, Mitigate, and Monitor Security Debts in Software Applications", 2024. Under revision. Independently prepared the entire proposal.
 * **National Research Foundation 33rd Competitive Research Programme**, 2.6m USD, 2024. Under review. Jointly prepared the proposal.
+* **NTU-Imperial Collaboration Fund Award**, 2025.
 
 Other
 ======

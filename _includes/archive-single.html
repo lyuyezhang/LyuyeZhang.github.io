@@ -46,6 +46,7 @@
           {% assign show_links = false %}
           {% if post.paperurl and post.paperurl != '' %}{% assign show_links = true %}{% endif %}
           {% if post.dataurl and post.dataurl != '' %}{% assign show_links = true %}{% endif %}
+          {% if post.eventurl and post.eventurl != '' %}{% assign show_links = true %}{% endif %}
           {% if show_links %}
             <div class="pub-links">
               {% if post.paperurl and post.paperurl != '' %}
@@ -53,6 +54,9 @@
               {% endif %}
               {% if post.dataurl and post.dataurl != '' %}
                 <a href="{{ post.dataurl }}" class="pub-btn" target="_blank">Dataset</a>
+              {% endif %}
+              {% if post.eventurl and post.eventurl != '' %}
+                <a href="{{ post.eventurl }}" class="pub-btn" target="_blank">Conference</a>
               {% endif %}
             </div>
           {% endif %}

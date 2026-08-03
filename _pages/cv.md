@@ -27,6 +27,7 @@ Awards and Grants
 **Awards and Achievements**
 * 2026 — Distinguished Paper Award at the 47th IEEE Symposium on Security and Privacy (S&P 2026)
 * 2026 — Best Review Award at the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)
+* 2025 — NTU-Imperial Collaboration Fund Award
 * 2023 — ACM SIGSOFT Distinguished Paper Award at the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023)
 * 2022 — ACM SIGSOFT Distinguished Paper Award at the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)
 * 2020 — Ministry of Education Research Student Scholarship (~314k USD), Singapore
