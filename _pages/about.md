@@ -12,7 +12,7 @@ redirect_from:
 Lyuye Zhang is a Postdoctoral Researcher at the Cyber Security Lab of Nanyang Technological University, Singapore, since April 2024. He received his Ph.D. from the College of Computing and Data Science of **Nanyang Technological University** in 2024, under the supervision of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/). He obtained a Master of Engineering degree from Nanyang Technological University in 2018 and a Bachelor's degree in Telecommunications from Harbin Engineering University, China in 2016.
 
 
-* <span style="color:red">**I am on the job market now, seeking a tenure-track Assistant Professor position. Please contact me if you find it suitable.**</span>
+<!-- * <span style="color:red">**I am on the job market now, seeking a tenure-track Assistant Professor position. Please contact me if you find it suitable.**</span> -->
 
 Research Interests
 ======
