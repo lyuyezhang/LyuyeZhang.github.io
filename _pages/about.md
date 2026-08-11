@@ -20,6 +20,7 @@ My primary research interests lie in the domains of Software Security and Mainte
 
 News
 ======
+* Aug 2026: Our paper "Agent-Based Automated Remediation for Vulnerabilities in Maven Projects" is accepted by **OOPSLA 2026**.
 * Jul 2026: Our paper "Implicit, Yet Impactful: Understanding Hidden Dependencies in Java Projects" is accepted by **ASE 2026**.
 * Jul 2026: Our paper "Latent Reuse in Agent Skills: Multi-modal Clone Detection at Ecosystem Scale" is accepted by **ASE 2026**.
 * Jul 2026: Our paper "One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability" is accepted by **ASE 2026**.
@@ -62,6 +63,7 @@ News
 
 Selected Publications
 ======
+* [OOPSLA 2026](https://oopsla26.hotcrp.com/u/0/paper/869) **Lyuye Zhang**, He Ye, Federica Sarro, Yuqiang Sun, Yang Liu, "Agent-Based Automated Remediation for Vulnerabilities in Maven Projects". Proceedings of the ACM on Programming Languages (PACMPL), OOPSLA 2026.
 * [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track) **Lyuye Zhang**, Chengwei Liu, Fangyuan Zhang, Yiran Zhang, Yuan Zhou, Yang Liu, "Implicit, Yet Impactful: Understanding Hidden Dependencies in Java Projects". 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
 * [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track) Jiaying Zhu, **Lyuye Zhang (corresponding author)**, Wenbo Guo, Yang Liu, "Latent Reuse in Agent Skills: Multi-modal Clone Detection at Ecosystem Scale". 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
 * [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track) Fangyuan Zhang, **Lyuye Zhang (co-corresponding author)**, Lingling Fan, Chengwei Liu, Yinan Li, Liang Huang, Yang Liu, Zheli Liu, Sen Chen, "One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability". 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
