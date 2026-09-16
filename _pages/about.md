@@ -12,7 +12,7 @@ redirect_from:
 Lyuye Zhang is a Professor at **Nankai University**, China, a member of the research group led by Professor [Sen Chen](https://sen-chen.github.io/), and affiliated with [NKSSecLab](https://nksseclab.github.io/). He received his Ph.D. from the College of Computing and Data Science of **Nanyang Technological University** in 2024, under the supervision of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/). He obtained a Master of Engineering degree from Nanyang Technological University in 2018 and a Bachelor's degree in Telecommunications from Harbin Engineering University, China in 2016.
 
 
-* <span style="color:red">**I have one opening for a direct-entry Ph.D. student starting in 2027 Summer. Please contact me if you are interested as soon as possible.**</span>
+* <span style="color:red">**I have one opening for a direct-entry Ph.D. student starting in 2027 Summer. Please contact me (lyuyezhang at gmail dot com) if you are interested as soon as possible.**</span>
 
 Research Interests
 ======
@@ -57,7 +57,7 @@ News
 ======
 * <span style="color:red">Distinguished Paper Award at the 47th IEEE Symposium on Security and Privacy (S&P 2026).</span>
 * <span style="color:blue">Best Review Award at the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026).</span>
-* NTU-Imperial Collaboration Fund Award, 2025.
+* NTU-Imperial Collaboration Visiting Fund Award, 2025.
 * <span style="color:red">ACM SIGSOFT Distinguished Paper Award at the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023).</span>
 * <span style="color:red">ACM SIGSOFT Distinguished Paper Award at the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).</span>
 * Ministry of Education Research Student Scholarship (~314k USD), Singapore, 2020.
