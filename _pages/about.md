@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Lyuye Zhang is a Professor at **Nankai University**, China, a member of the research group led by Professor [Sen Chen](https://sen-chen.github.io/), and affiliated with [NKSSecLab](https://nksseclab.github.io/). He received his Ph.D. from the College of Computing and Data Science of **Nanyang Technological University** in 2024, under the supervision of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/). He obtained a Master of Engineering degree from Nanyang Technological University in 2018 and a Bachelor's degree in Telecommunications from Harbin Engineering University, China in 2016.
+Lyuye Zhang is a Professor at **Nankai University**, China, a member of the research group led by Professor [Zheli Liu](https://cc.nankai.edu.cn/2021/0323/c13619a548877/page.htm), working with Professor [Sen Chen](https://sen-chen.github.io/), and affiliated with [NKSSecLab](https://nksseclab.github.io/). He received his Ph.D. from the College of Computing and Data Science of **Nanyang Technological University** in 2024, under the supervision of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/). He obtained a Master of Engineering degree from Nanyang Technological University in 2018 and a Bachelor's degree in Telecommunications from Harbin Engineering University, China in 2016.
 
 
 * <span style="color:red">**I have one opening for a direct-entry Ph.D. student starting in 2027 Summer. Please contact me (lyuyezhang at gmail dot com) if you are interested as soon as possible.**</span>
