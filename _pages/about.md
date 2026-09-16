@@ -9,14 +9,19 @@ redirect_from:
 ---
 
 
-Lyuye Zhang is a Postdoctoral Researcher at the Cyber Security Lab of Nanyang Technological University, Singapore, since April 2024. He received his Ph.D. from the College of Computing and Data Science of **Nanyang Technological University** in 2024, under the supervision of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/). He obtained a Master of Engineering degree from Nanyang Technological University in 2018 and a Bachelor's degree in Telecommunications from Harbin Engineering University, China in 2016.
+Lyuye Zhang is a Professor at **Nankai University**, China, a member of the research group led by Professor [Sen Chen](https://sen-chen.github.io/), and affiliated with [NKSSecLab](https://nksseclab.github.io/). He received his Ph.D. from the College of Computing and Data Science of **Nanyang Technological University** in 2024, under the supervision of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/). He obtained a Master of Engineering degree from Nanyang Technological University in 2018 and a Bachelor's degree in Telecommunications from Harbin Engineering University, China in 2016.
 
 
 <!-- * <span style="color:red">**I am on the job market now, seeking a tenure-track Assistant Professor position. Please contact me if you find it suitable.**</span> -->
 
 Research Interests
 ======
-My primary research interests lie in the domains of Software Security and Maintenance, encompassing various aspects such as Open Source Security, Software Supply Chain Security, Open Source Governance, and Software Evolution Analysis. Currently, I am working on LLM-driven software security.
+My research focuses on **Software Supply Chain and Software Security**, with particular interest in the evolving risks introduced by LLMs, coding agents, tools, and external components.
+
+* 📦 **Software Supply Chain Security:** open-source software, third-party dependencies, SCA, and supply-chain risk analysis.
+* 🔐 **Vulnerability Analysis and Remediation:** vulnerability analysis, automated repair, and secure software maintenance.
+* 🤖 **LLM / Agent Supply Chain Security:** security, dependencies, and trust in LLM, coding-agent, and agent ecosystems.
+* 🛠️ **AI for Software Security:** using LLMs and agents for vulnerability analysis, security code review, and software maintenance.
 
 News
 ======
