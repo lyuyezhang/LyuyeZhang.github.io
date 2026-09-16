@@ -55,6 +55,7 @@ News
 
 **Awards**
 ======
+* <span style="color:red">Distinguished Paper Award at the 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), for [Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries](https://conf.researchr.org/track/issta-2026/issta-2026-research-papers#).</span>
 * <span style="color:red">Distinguished Paper Award at the 47th IEEE Symposium on Security and Privacy (S&P 2026).</span>
 * <span style="color:blue">Best Review Award at the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026).</span>
 * NTU-Imperial Collaboration Visiting Fund Award, 2025.
