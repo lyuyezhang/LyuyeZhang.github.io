@@ -25,6 +25,7 @@ My research focuses on **Software Supply Chain and Software Security**, with par
 
 News
 ======
+* Sep 2026: Our paper "Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries" received a **Distinguished Paper Award at ISSTA 2026**.
 * Aug 2026: Our paper "Agent-Based Automated Remediation for Vulnerabilities in Maven Projects" is accepted by **OOPSLA 2026**.
 * Jul 2026: Our paper "Implicit, Yet Impactful: Understanding Hidden Dependencies in Java Projects" is accepted by **ASE 2026**.
 * Jul 2026: Our paper "Latent Reuse in Agent Skills: Multi-modal Clone Detection at Ecosystem Scale" is accepted by **ASE 2026**.
