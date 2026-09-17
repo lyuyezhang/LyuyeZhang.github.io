@@ -10,6 +10,7 @@ paperurl: 'https://arxiv.org/pdf/2401.00515.pdf'
 citation: ''
 authors: 'Jinchang Hu, Lyuye Zhang (equal contribution), Chengwei Liu, Sen Yang, Song Huang, Yang Liu'
 venue_short: 'ICSE'
+ccf: 'A'
 dataurl: 'https://sites.google.com/view/vulnerabilities-life-cycle/'
 ---
 <!-- Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2). -->

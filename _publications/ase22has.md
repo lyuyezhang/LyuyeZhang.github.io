@@ -10,6 +10,7 @@ citation: ''
 authors: 'Lyuye Zhang, Chengwei Liu, Zhengzi Xu, Sen Chen, Lingling Fan, Bihuan Chen, Yang Liu'
 award: 'SIGSOFT Distinguished Paper Award'
 venue_short: 'ASE'
+ccf: 'A'
 dataurl: 'https://sites.google.com/view/ase22semverdetection'
 ---
 <!--'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'  -->

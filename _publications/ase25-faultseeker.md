@@ -9,5 +9,6 @@ paperurl: ''
 citation: ''
 authors: 'Kairan Sun, Zhengzi Xu, Kaixuan Li, Lyuye Zhang, Yang Liu'
 venue_short: 'ASE'
+ccf: 'A'
 forthcoming: true
 ---

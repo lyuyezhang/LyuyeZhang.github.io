@@ -10,6 +10,7 @@ eventurl: 'https://conf.researchr.org/track/ase-2026/ase-2026-research-track'
 citation: ''
 authors: 'Jiaying Zhu, Lyuye Zhang (corresponding author), Wenbo Guo, Yang Liu'
 venue_short: 'ASE'
+ccf: 'A'
 forthcoming: true
 ---
 [Jiaying Zhu](https://conf.researchr.org/profile/ase-2026/jiayingzhu1), **[Lyuye Zhang](https://conf.researchr.org/profile/ase-2026/lyuyezhang) (corresponding author)**, [Wenbo Guo](https://conf.researchr.org/profile/ase-2026/wenboguo1), [Yang Liu](https://conf.researchr.org/profile/ase-2026/yangliu).

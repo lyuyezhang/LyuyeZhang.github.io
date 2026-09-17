@@ -9,6 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2403.06838'
 citation: ''
 authors: 'Lyuye Zhang, Kaixuan Li, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, Yang Liu'
 venue_short: 'TSE'
+ccf: 'A'
 ---
 **Lyuye Zhang**, Kaixuan Li, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, Yang Liu.
 

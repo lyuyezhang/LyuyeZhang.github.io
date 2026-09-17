@@ -10,5 +10,6 @@ citation: ''
 authors: 'Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, Yanan Guo'
 award: 'Distinguished Paper Award'
 venue_short: 'S&P'
+ccf: 'A'
 forthcoming: true
 ---

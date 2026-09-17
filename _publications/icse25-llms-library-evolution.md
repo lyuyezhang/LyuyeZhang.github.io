@@ -9,4 +9,5 @@ paperurl: 'https://arxiv.org/pdf/2406.09834'
 citation: ''
 authors: 'Chong Wang, Kaifeng Huang, Jian Zhang, Yebo Feng, Lyuye Zhang, Yang Liu, Xin Peng'
 venue_short: 'ICSE'
+ccf: 'A'
 ---

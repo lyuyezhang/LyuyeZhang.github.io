@@ -9,6 +9,7 @@ paperurl: 'https://conf.researchr.org/details/icse-2023/icse-2023-technical-trac
 citation: ''
 authors: 'Jiahui Wu, Zhengzi Xu, Wei Tang, Lyuye Zhang, Yueming Wu, Chengyue Liu, Kairan Sun, Lida Zhao, Yang Liu'
 venue_short: 'ICSE'
+ccf: 'A'
 ---
 <!-- Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2). -->
 <!-- This paper is about the number 2. The number 3 is left for future work. -->

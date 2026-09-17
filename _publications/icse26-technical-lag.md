@@ -9,6 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2511.06762'
 citation: ''
 authors: 'Rui Lu, Lyuye Zhang (equal contribution), Kaixuan Li, Min Zhang, Yixiang Chen'
 venue_short: 'ICSE'
+ccf: 'A'
 ---
 Rui Lu, **Lyuye Zhang** (equal contribution), Kaixuan Li, Min Zhang, Yixiang Chen.
 

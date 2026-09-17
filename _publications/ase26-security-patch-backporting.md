@@ -10,6 +10,7 @@ eventurl: 'https://conf.researchr.org/track/ase-2026/ase-2026-research-track'
 citation: ''
 authors: 'Jincheng Yang, Yulong Fu, Chengwei Liu, Lyuye Zhang, Fangyuan Zhang, Bingyang Ren, Yang Liu, Hui Li'
 venue_short: 'ASE'
+ccf: 'A'
 forthcoming: true
 ---
 [Jincheng Yang](https://conf.researchr.org/profile/ase-2026/jinchengyang1), [Yulong Fu](https://conf.researchr.org/profile/ase-2026/yulongfu), [Chengwei Liu](https://conf.researchr.org/profile/ase-2026/chengweiliu), **[Lyuye Zhang](https://conf.researchr.org/profile/ase-2026/lyuyezhang)**, [Fangyuan Zhang](https://conf.researchr.org/profile/ase-2026/fangyuanzhang1), [Bingyang Ren](https://conf.researchr.org/profile/ase-2026/bingyangren), [Yang Liu](https://conf.researchr.org/profile/ase-2026/yangliu), [Hui Li](https://conf.researchr.org/profile/ase-2026/huili4).

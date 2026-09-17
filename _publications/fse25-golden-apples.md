@@ -9,6 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2503.22576'
 citation: ''
 authors: 'Lyuye Zhang, Chengwei Liu, Jiahui Wu, Shiyang Zhang, Chengyue Liu, Zhengzi Xu, Sen Chen, Yang Liu'
 venue_short: 'FSE'
+ccf: 'A'
 ---
 **Lyuye Zhang**, Chengwei Liu, Jiahui Wu, Shiyang Zhang, Chengyue Liu, Zhengzi Xu, Sen Chen, Yang Liu.
 

@@ -10,6 +10,7 @@ citation: ''
 authors: 'Lyuye Zhang, Chengwei Liu, Zhengzi Xu, Sen Chen, Lingling Fan, Lida Zhao, Jiahui Wu, Yang Liu'
 award: 'SIGSOFT Distinguished Paper Award'
 venue_short: 'ICSE'
+ccf: 'A'
 dataurl: 'https://sites.google.com/view/icse23remediation'
 ---
 <!-- Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3). -->

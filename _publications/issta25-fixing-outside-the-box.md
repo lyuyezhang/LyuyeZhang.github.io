@@ -9,6 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2503.23357'
 citation: ''
 authors: 'Lyuye Zhang, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, Yang Liu'
 venue_short: 'ISSTA'
+ccf: 'A'
 ---
 **Lyuye Zhang**, Jiahui Wu, Chengwei Liu, Kaixuan Li, Xiaoyu Sun, Lida Zhao, Chong Wang, Yang Liu.
 

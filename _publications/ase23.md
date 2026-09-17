@@ -9,6 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2308.03419.pdf'
 citation: ''
 authors: 'Lyuye Zhang, Chengwei Liu, Sen Chen, Zhengzi Xu, Lingling Fan, Lida Zhao, Yiran Zhang, Yang Liu'
 venue_short: 'ASE'
+ccf: 'A'
 dataurl: 'https://sites.google.com/view/ase23maven'
 ---
 <!-- Your Name, You. (2010). &quot;Paper Title Number 4.&quot; <i>Journal 1</i>. 1(2). -->

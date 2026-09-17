@@ -8,5 +8,6 @@ venue: 'ACM SIGSOFT International Symposium on Software Testing and Analysis (IS
 paperurl: ''
 citation: ''
 venue_short: 'ISSTA'
+ccf: 'A'
 forthcoming: true
 ---

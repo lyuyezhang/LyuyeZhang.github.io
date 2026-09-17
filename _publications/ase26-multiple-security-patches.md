@@ -10,6 +10,7 @@ eventurl: 'https://conf.researchr.org/track/ase-2026/ase-2026-research-track'
 citation: ''
 authors: 'Fangyuan Zhang, Lyuye Zhang (co-corresponding author), Lingling Fan, Chengwei Liu, Yinan Li, Liang Huang, Yang Liu, Zheli Liu, Sen Chen'
 venue_short: 'ASE'
+ccf: 'A'
 forthcoming: true
 ---
 [Fangyuan Zhang](https://conf.researchr.org/profile/ase-2026/fangyuanzhang1), **[Lyuye Zhang](https://conf.researchr.org/profile/ase-2026/lyuyezhang) (co-corresponding author)**, [Lingling Fan](https://conf.researchr.org/profile/ase-2026/linglingfan), [Chengwei Liu](https://conf.researchr.org/profile/ase-2026/chengweiliu), [Yinan Li](https://conf.researchr.org/profile/ase-2026/yinanli), [Liang Huang](https://conf.researchr.org/profile/ase-2026/lianghuang), [Yang Liu](https://conf.researchr.org/profile/ase-2026/yangliu), [Zheli Liu](https://conf.researchr.org/profile/ase-2026/zheliliu), [Sen Chen](https://conf.researchr.org/profile/ase-2026/senchen).
