@@ -47,6 +47,22 @@
   color: $gray;
 }
 
+.pub-ccf {
+  display: inline-block;
+  margin-top: 4px;
+  padding: 1px 6px;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  font-size: 0.62em;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+.pub-ccf--a { color: #c62828; }
+.pub-ccf--b { color: #546E7A; }
+
 /* ── Right column: paper content ── */
 
 .pub-body {

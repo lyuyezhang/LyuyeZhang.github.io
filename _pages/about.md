@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Education Background"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

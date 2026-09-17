@@ -25,6 +25,9 @@
         <div class="pub-badge pub-badge--{{ badge_class }}">
           <span class="pub-venue-tag">{{ post.venue_short | default: "—" }}</span>
           <span class="pub-venue-year">{{ post.date | default: "1900-01-01" | date: "%Y" }}</span>
+          {% if post.ccf %}
+            <span class="pub-ccf pub-ccf--{{ post.ccf | downcase }}">CCF-{{ post.ccf }}</span>
+          {% endif %}
         </div>
         <div class="pub-body">
           <h2 class="pub-title" itemprop="headline">
